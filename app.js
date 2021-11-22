@@ -12,7 +12,7 @@ let isName;
 welcomeScreen({
     text: 'Pokemon CLI',
     animation: 'bottom-top',
-    delay: 50,
+    delay: 75,
     size: `${width}x${height}`,
     font: 'Isometric3'
 }, () => { main(); });
