@@ -103,8 +103,8 @@ There is also a list to maintain all pokemon that have been cached.
 - **utils**: contains some utilities, such as functions for making API calls and priting a table
 
 # Potential Improvement
-1. Provide a function to display the list of Pokemon in cache
-2. Create a infinite loop so that the program will not stop until the user decides to quit
-3. Display the ASCII version of the image for each Pokemon
-4. Provide a function to search the cached Pokemon with thier properties, such locations or a criteria of stats
-5. Re-do the format of the encounter locations so in some case the display will exceed the height of the terminal
+1. Provide a function to display the list of Pokemon in cache.
+2. Create a infinite loop so that the program will not stop until the user decides to quit.
+3. Display the ASCII version of the image for each Pokemon.
+4. Provide a function to search the cached Pokemon with thier properties, such locations or a criteria of stats.
+5. Re-do the format of the encounter locations so in some case the display will exceed the height of the terminal.
