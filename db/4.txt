@@ -1,0 +1,1 @@
+{"id":4,"name":"charmander","types":["fire"],"encounterLocations":[{"location":"pallet-town-area","methods":["old-rod","good-rod","super-rod","surf"]},{"location":"kanto-route-24-area","methods":["walk","old-rod","good-rod","super-rod","surf"]}],"stats":{"hp":39,"attack":52,"defense":43,"special-attack":60,"special-defense":50,"speed":65},"date":1637514703801}

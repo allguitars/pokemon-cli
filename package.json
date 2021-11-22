@@ -1,0 +1,21 @@
+{
+    "name": "pokemon-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "logger.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "asciify-image": "^0.1.8",
+        "cli-table3": "^0.6.0",
+        "colors": "^1.4.0",
+        "inquirer": "^8.2.0",
+        "moment": "^2.29.1",
+        "node-fetch": "^2.6.6",
+        "text-animation": "^1.2.10"
+    }
+}

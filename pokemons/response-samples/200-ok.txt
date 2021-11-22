@@ -1,0 +1,41 @@
+Response {
+  size: 0,
+  timeout: 0,
+  [Symbol(Body internals)]: {
+    body: Gunzip {
+      _writeState: [Uint32Array],
+      _readableState: [ReadableState],
+      readable: true,
+      _events: [Object: null prototype],
+      _eventsCount: 6,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      writable: true,
+      allowHalfOpen: true,
+      _transformState: [Object],
+      _hadError: false,
+      bytesWritten: 0,
+      _handle: [Zlib],
+      _outBuffer: <Buffer 7b 22 61 62 69 6c 69 74 69 65 73 22 3a 5b 7b 22 61 62 69 6c 69 74 79 22 3a 7b 22 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 55 04 00 00 00 00 d8 1d ... 16334 more bytes>,
+      _outOffset: 0,
+      _chunkSize: 16384,
+      _defaultFlushFlag: 2,
+      _finishFlushFlag: 2,
+      _defaultFullFlushFlag: 3,
+      _info: undefined,
+      _maxOutputLength: 2147483647,
+      _level: -1,
+      _strategy: 0,
+      [Symbol(kCapture)]: false
+    },
+    disturbed: false,
+    error: null
+  },
+  [Symbol(Response internals)]: {
+    url: 'https://pokeapi.co/api/v2/pokemon/bulbasaur',
+    status: 200,
+    statusText: 'OK',
+    headers: Headers { [Symbol(map)]: [Object: null prototype] },
+    counter: 0
+  }
+}

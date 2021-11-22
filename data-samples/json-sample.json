@@ -1,0 +1,301 @@
+[
+    {
+        "id": 23,
+        "name": "ekans",
+        "types": [
+            "poison"
+        ],
+        "encounterLocations": [
+            {
+                "location": "kanto-route-23-area",
+                "methods": [
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    }
+                ]
+            },
+            {
+                "location": "kanto-route-11-area",
+                "methods": [
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 15
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 5
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 5
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 4
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 1
+                    }
+                ]
+            },
+            {
+                "location": "kanto-route-8-area",
+                "methods": [
+                    {
+                        "name": "walk",
+                        "chance": 15
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 5
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 5
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 4
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 1
+                    }
+                ]
+            },
+            {
+                "location": "kanto-route-4-area",
+                "methods": [
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 4
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 1
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 4
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 1
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    }
+                ]
+            },
+            {
+                "location": "kanto-route-27-area",
+                "methods": [
+                    {
+                        "name": "headbutt-low",
+                        "chance": 15
+                    },
+                    {
+                        "name": "headbutt-normal",
+                        "chance": 15
+                    }
+                ]
+            },
+            {
+                "location": "kanto-route-9-area",
+                "methods": [
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 4
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 1
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 4
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 1
+                    }
+                ]
+            },
+            {
+                "location": "kanto-route-10-area",
+                "methods": [
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 4
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 1
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 4
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 1
+                    }
+                ]
+            },
+            {
+                "location": "kanto-route-3-area",
+                "methods": [
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 20
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    },
+                    {
+                        "name": "walk",
+                        "chance": 10
+                    }
+                ]
+            },
+            {
+                "location": "kanto-route-26-area",
+                "methods": [
+                    {
+                        "name": "headbutt-low",
+                        "chance": 15
+                    },
+                    {
+                        "name": "headbutt-normal",
+                        "chance": 15
+                    }
+                ]
+            }
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 60,
+            "defense": 44,
+            "special-attack": 40,
+            "special-defense": 54,
+            "speed": 55
+        },
+        "date": "2021-11-20T10:49:25.206Z"
+    }
+]

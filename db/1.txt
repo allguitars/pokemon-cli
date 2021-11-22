@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "name": "bulbasaur",
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "encounterLocations": [
+        {
+            "location": "cerulean-city-area",
+            "methods": [
+                "old-rod",
+                "good-rod",
+                "super-rod",
+                "surf"
+            ]
+        },
+        {
+            "location": "pallet-town-area",
+            "methods": [
+                "old-rod",
+                "good-rod",
+                "super-rod",
+                "surf"
+            ]
+        }
+    ],
+    "stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "special-attack": 65,
+        "special-defense": 65,
+        "speed": 45
+    },
+    "date": 1637514926407
+}

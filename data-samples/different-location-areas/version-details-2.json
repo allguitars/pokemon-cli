@@ -1,0 +1,118 @@
+{
+    "version_details": [
+        {
+            "encounter_details": [
+                {
+                    "chance": 100,
+                    "condition_values": [],
+                    "max_level": 5,
+                    "method": {
+                        "name": "gift",
+                        "url": "https://pokeapi.co/api/v2/encounter-method/18/"
+                    },
+                    "min_level": 5
+                }
+            ],
+            "max_chance": 100,
+            "version": {
+                "name": "red",
+                "url": "https://pokeapi.co/api/v2/version/1/"
+            }
+        },
+        {
+            "encounter_details": [
+                {
+                    "chance": 100,
+                    "condition_values": [],
+                    "max_level": 5,
+                    "method": {
+                        "name": "gift",
+                        "url": "https://pokeapi.co/api/v2/encounter-method/18/"
+                    },
+                    "min_level": 5
+                }
+            ],
+            "max_chance": 100,
+            "version": {
+                "name": "blue",
+                "url": "https://pokeapi.co/api/v2/version/2/"
+            }
+        },
+        {
+            "encounter_details": [
+                {
+                    "chance": 100,
+                    "condition_values": [],
+                    "max_level": 5,
+                    "method": {
+                        "name": "gift",
+                        "url": "https://pokeapi.co/api/v2/encounter-method/18/"
+                    },
+                    "min_level": 5
+                }
+            ],
+            "max_chance": 100,
+            "version": {
+                "name": "firered",
+                "url": "https://pokeapi.co/api/v2/version/10/"
+            }
+        },
+        {
+            "encounter_details": [
+                {
+                    "chance": 100,
+                    "condition_values": [],
+                    "max_level": 5,
+                    "method": {
+                        "name": "gift",
+                        "url": "https://pokeapi.co/api/v2/encounter-method/18/"
+                    },
+                    "min_level": 5
+                }
+            ],
+            "max_chance": 100,
+            "version": {
+                "name": "leafgreen",
+                "url": "https://pokeapi.co/api/v2/version/11/"
+            }
+        },
+        {
+            "encounter_details": [
+                {
+                    "chance": 100,
+                    "condition_values": [],
+                    "max_level": 5,
+                    "method": {
+                        "name": "gift",
+                        "url": "https://pokeapi.co/api/v2/encounter-method/18/"
+                    },
+                    "min_level": 5
+                }
+            ],
+            "max_chance": 100,
+            "version": {
+                "name": "heartgold",
+                "url": "https://pokeapi.co/api/v2/version/15/"
+            }
+        },
+        {
+            "encounter_details": [
+                {
+                    "chance": 100,
+                    "condition_values": [],
+                    "max_level": 5,
+                    "method": {
+                        "name": "gift",
+                        "url": "https://pokeapi.co/api/v2/encounter-method/18/"
+                    },
+                    "min_level": 5
+                }
+            ],
+            "max_chance": 100,
+            "version": {
+                "name": "soulsilver",
+                "url": "https://pokeapi.co/api/v2/version/16/"
+            }
+        }
+    ]
+}
