@@ -98,7 +98,7 @@ There is also a list to maintain all pokemon that have been cached.
 - **animations**: contains code for transition animation
 - **constants**: stores constants
 - **db**: where the cache is located
-- **error**: contains code for hadling errors
+- **errors**: contains code for hadling errors
 - **interactive-cli**: contains code for the command line interaction
 - **utils**: contains some utilities, such as functions for making API calls and priting a table
 
